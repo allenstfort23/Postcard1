@@ -2,10 +2,10 @@ body {
 	background: black;
 	font-family: "Bebas Neue", cursive;
 }
-* {
+/* * {
 	border: 1px dashed red;
 	min-height: 10px;
-}
+} */
 .postcard {
 	background: white;
 	width: 400px;
